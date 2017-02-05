@@ -1,10 +1,13 @@
 <?php
-// File: runbb_translation_en.php. Automatically generated: 2017-02-04 09:28:48 by admin.
+// File: runbb_translation_en.php. Automatically generated: 2017-02-05 03:55:26 by admin.
 // DIRECT EDIT NOT WELCOME. USE ADMIN LANGUAGE EDITOR INSTEAD.
 return array (
   'code' => 'en',
-  'name' => 'English',
   'locale' => 'en_US',
+  'name' => 'English',
+  'version' => '1.0.0',
+  'image' => 'English.png',
+  'author' => '',
   'translations' => 
   array (
     0 => 
