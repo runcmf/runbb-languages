@@ -1,5 +1,5 @@
 <?php
-// File: runbb_translation_ru.php. Automatically generated: 2017-02-05 03:55:29 by admin.
+// File: runbb_translation_ru.php. Automatically generated: 2017-02-05 05:22:39 by admin.
 // DIRECT EDIT NOT WELCOME. USE ADMIN LANGUAGE EDITOR INSTEAD.
 return array (
   'code' => 'ru',
@@ -2579,7 +2579,7 @@ return array (
     array (
       'domain' => 'admin-index',
       'msgid' => 'Server statistics head',
-      'msgstr' => 'Server statistics',
+      'msgstr' => 'Статистика сервера',
       'msgid_plural' => '',
       'reference' => '',
       'comment' => '',
