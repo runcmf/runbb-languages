@@ -5,7 +5,7 @@
     "name": "English",
     "version": "1.0.0",
     "image": "English.png",
-    "author": ""
+    "author": "<a href=\"https:\/\/github.com\/featherbb\/featherbb\">FeatherBB<\/a> - <a href=\"mailto:admin@featherbb.org\">admin<\/a>"
   },
   {
     "code": "ru",
@@ -13,6 +13,6 @@
     "name": "Russian",
     "version": "1.0.1",
     "image": "Russian.png",
-    "author": ""
+    "author": "<a href=\"https:\/\/github.com\/runcmf\/runbb\">RunBB<\/a> - <a href=\"mailto:1f7.wizard@gmail.com\">1f7<\/a>"
   }
 ]
