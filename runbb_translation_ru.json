@@ -8049,7 +8049,7 @@
         {
             "domain": "install",
             "msgid": "Administrator",
-            "msgstr": "Administrator",
+            "msgstr": "\u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440",
             "msgid_plural": "",
             "reference": "",
             "comment": ""
@@ -8057,7 +8057,7 @@
         {
             "domain": "install",
             "msgid": "Moderators",
-            "msgstr": "Moderators",
+            "msgstr": "\u041c\u043e\u0434\u0435\u0440\u0430\u0442\u043e\u0440\u044b",
             "msgid_plural": "",
             "reference": "",
             "comment": ""
@@ -8065,7 +8065,7 @@
         {
             "domain": "install",
             "msgid": "Moderator",
-            "msgstr": "Moderator",
+            "msgstr": "\u041c\u043e\u0434\u0435\u0440\u0430\u0442\u043e\u0440",
             "msgid_plural": "",
             "reference": "",
             "comment": ""
@@ -8073,7 +8073,7 @@
         {
             "domain": "install",
             "msgid": "Guests",
-            "msgstr": "Guests",
+            "msgstr": "\u0413\u043e\u0441\u0442\u0438",
             "msgid_plural": "",
             "reference": "",
             "comment": ""
@@ -8081,7 +8081,7 @@
         {
             "domain": "install",
             "msgid": "Guest",
-            "msgstr": "Guest",
+            "msgstr": "\u0413\u043e\u0441\u0442\u044c",
             "msgid_plural": "",
             "reference": "",
             "comment": ""
@@ -8097,7 +8097,7 @@
         {
             "domain": "install",
             "msgid": "Administrators",
-            "msgstr": "Administrators",
+            "msgstr": "\u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u044b",
             "msgid_plural": "",
             "reference": "",
             "comment": ""
@@ -8217,7 +8217,7 @@
         {
             "domain": "install",
             "msgid": "Confirm password",
-            "msgstr": "Confirm password",
+            "msgstr": "\u041f\u043e\u0432\u0442\u043e\u0440\u0438\u0442\u0435 \u043f\u0430\u0440\u043e\u043b\u044c",
             "msgid_plural": "",
             "reference": "",
             "comment": ""
@@ -8225,7 +8225,7 @@
         {
             "domain": "install",
             "msgid": "Password",
-            "msgstr": "Password",
+            "msgstr": "\u041f\u0430\u0440\u043e\u043b\u044c",
             "msgid_plural": "",
             "reference": "",
             "comment": ""
@@ -8425,7 +8425,7 @@
         {
             "domain": "install",
             "msgid": "FeatherBB Installation",
-            "msgstr": "FeatherBB Installation",
+            "msgstr": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 RunBB",
             "msgid_plural": "",
             "reference": "",
             "comment": ""

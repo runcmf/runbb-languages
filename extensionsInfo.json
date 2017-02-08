@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Private Messages",
+    "package": "runcmf/runbb-ext-pms",
+    "repo": "https://github.com/runcmf/runbb-ext-pms"
+  },
+  {
+    "name": "markItup based markdown editor toolbar with elFinder",
+    "package": "runcmf/runbb-ext-markitup",
+    "repo": "https://github.com/runcmf/runbb-ext-markitup"
+  },
+  {
+    "name": "SimpleMDE markdown editor for RunBB forum plugin",
+    "package": "runcmf/runbb-ext-simplemde",
+    "repo": "https://github.com/runcmf/runbb-ext-simplemde"
+  }
+]
