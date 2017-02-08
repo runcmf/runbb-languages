@@ -1,17 +1,29 @@
-[
-  {
-    "name": "Private Messages",
-    "package": "runcmf/runbb-ext-pms",
-    "repo": "https://github.com/runcmf/runbb-ext-pms"
-  },
-  {
-    "name": "markItup based markdown editor toolbar with elFinder",
-    "package": "runcmf/runbb-ext-markitup",
-    "repo": "https://github.com/runcmf/runbb-ext-markitup"
-  },
-  {
-    "name": "SimpleMDE markdown editor for RunBB forum plugin",
-    "package": "runcmf/runbb-ext-simplemde",
-    "repo": "https://github.com/runcmf/runbb-ext-simplemde"
-  }
-]
+{
+  "pms": [
+    {
+      "name": "Private Messages",
+      "info": "runbb-ext-pms",
+      "package": "runcmf/runbb-ext-pms",
+      "repo": "https://github.com/runcmf/runbb-ext-pms"
+    }
+  ],
+  "editors": [
+    {
+      "name": "markItup based markdown editor toolbar with elFinder",
+      "info": "runbb-ext-markitup",
+      "package": "runcmf/runbb-ext-markitup",
+      "repo": "https://github.com/runcmf/runbb-ext-markitup"
+    },
+    {
+      "name": "SimpleMDE markdown editor for RunBB forum plugin",
+      "info": "runbb-ext-simplemde",
+      "package": "runcmf/runbb-ext-simplemde",
+      "repo": "https://github.com/runcmf/runbb-ext-simplemde"
+    }
+  ],
+  "styles": [
+    {
+
+    }
+  ]
+}
