@@ -5,6 +5,7 @@
       "key": "pms",
       "info": "runbb-ext-pms",
       "stability": "dev-master",
+      "class": "RunPMS\\PrivateMessages",
       "package": "runcmf/runbb-ext-pms",
       "repo": "https://github.com/runcmf/runbb-ext-pms"
     }
@@ -15,6 +16,7 @@
       "key": "markitup",
       "info": "runbb-ext-markitup",
       "stability": "dev-master",
+      "class": "RunMarkItup\\markItUp",
       "package": "runcmf/runbb-ext-markitup",
       "repo": "https://github.com/runcmf/runbb-ext-markitup"
     },
@@ -23,6 +25,7 @@
       "key": "simplemde",
       "info": "runbb-ext-simplemde",
       "stability": "dev-master",
+      "class": "SimpleMDE\\SimpleMDE",
       "package": "runcmf/runbb-ext-simplemde",
       "repo": "https://github.com/runcmf/runbb-ext-simplemde"
     }
