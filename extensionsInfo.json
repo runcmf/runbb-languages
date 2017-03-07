@@ -1,4 +1,15 @@
 {
+  "System Tools": [
+    {
+      "name": "RunBB Converter",
+      "key": "converter",
+      "info": "runbb-ext-converter",
+      "stability": "dev-master",
+      "class": "BBConverter\\BBConverter",
+      "package": "runcmf/runbb-ext-converter",
+      "repo": "https://github.com/runcmf/runbb-ext-converter"
+    }
+  ],
   "Private-Messages": [
     {
       "name": "Private Messages",
